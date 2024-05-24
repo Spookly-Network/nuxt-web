@@ -18,12 +18,13 @@
 </script>
 <style scoped>
 h1 {
-  @apply text-xl font-bold uppercase pt-5
-  text-opacity-90 text-neutral-100;
+  @apply text-5xl font-extrabold leading-tight my-2;
+}
+h2 {
+  @apply text-3xl font-extrabold leading-tight my-2;
 }
 
-h2 {
-  @apply text-2xl font-bold uppercase pt-5
-  text-opacity-90 text-neutral-100;
+ul {
+  @apply list-disc;
 }
 </style>
