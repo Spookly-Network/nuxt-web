@@ -1,0 +1,94 @@
+{
+  "general": {
+    "bingo": "Bingo",
+    "jumpwars": "Jumpwars",
+    "arcade": "Arcade",
+    "realms": "Realms",
+
+    "seo": {
+      "default-title": "The Ultimate Minecraft Network",
+      "descriptions": {
+        "bingo": "Team up in Bingo! Collect 9 items first to win in this strategy and survival game. With rounds ranging from 20 minutes to two hours. Join now on Spookly.net!",
+        "jumpwars": "Master parkour and combat in Jumpwars! Earn points, gear up, and battle it out. Last team standing wins. Join the excitement on Spookly.net!",
+        "arcade": "Compete in diverse minigames in Arcade mode! Earn points and aim to be the top scorer. Fun and variety await on Spookly.net!",
+        "realms": "Create your own world in Realms mode! Customize and modify your unique Minecraft haven. Showcase your creativity on Spookly.net!"
+      }
+    },
+    "footer": {
+      "title": {
+        "language": "Languages",
+        "links": "USEFUL LINKS",
+        "legal": "Legal"
+      },
+      "legal": {
+        "imprint": "Imprint",
+        "privacy": "Privacy"
+      },
+      "links": {
+        "discord": "Discord"
+      }
+    },
+    "navigation": {
+      "general": {
+        "home": "Home",
+        "blog": "Blog",
+        "gamemodes": "Gamemodes",
+        "store": "Store"
+      },
+      "gamemodes": {
+        "bingo": "Bingo",
+        "jumpwars": "Jumpwars",
+        "arcade": "Arcade",
+        "realms": "Realms"
+      }
+    }
+  },
+  "homepage": {
+    "content": {
+      "headlines": {
+        "news": "News"
+      },
+      "latest": {
+        "read": "Read"
+      },
+      "discord": {
+        "talk": "Talk to us!",
+        "cta": "Join our discord"
+      }
+    }
+  },
+  "gamemodes": {
+    "names": {
+      "bingo-classic": "Bingo Classic",
+      "bingo-quick": "Bingo-Quick"
+    },
+    "content": {
+      "header": {
+        "gamemode": "gamemode",
+        "development": "in development",
+        "bingo": "In Bingo, teams are teleported to random locations and must collect 9 specific items. The first team to gather all items wins, with rounds ranging from 20 minutes to two hours. Test your strategy and survival skills in this exciting scavenger hunt.",
+        "jumpwars": "Jumpwars combines parkour and combat, where players complete jump-and-run modules to earn points for equipment. After gearing up, teams battle it out with three lives each, and the last team standing wins. It's a thrilling mix of agility and strategy.",
+        "realms": "Realms offers each player their own customizable world to modify as they please. Create your unique Minecraft haven and showcase your creativity. It's your personal space in the Spookly.net universe.",
+        "arcade": "Arcade mode features a series of diverse minigames where players compete for points. The player with the most points at the end wins, making for an exciting and varied gameplay experience. Enjoy multiple games and aim for the top score."
+      },
+      "maps": {
+        "title": "Maps",
+        "acent": "Acent",
+        "cherry": "Cherry",
+        "haven": "Haven"
+      },
+      "modes": {
+        "title": "Modes",
+        "bingo-classic": "In Bingo, teams of two players are teleported to random locations in the Minecraft world and must collect 9 specific items. The first team to gather all items wins. The classic variant can last up to two hours, offering an extended challenge of strategy and survival skills.",
+        "bingo-quick" : "Bingo Quick is a fast-paced version of the classic Bingo game. Every player is on their own and must collect 9 specific items, with rounds condensed to just 20 minutes. This makes for a shorter, more intense experience that tests players' quick thinking and efficiency."
+      }
+    }
+  },
+  "blog": {
+    "preview": {
+      "title": "Hungry for more?",
+      "subtitle": "Check out some of our other blogs if you haven’t already!",
+      "empty": "There are no entry's right now"
+    }
+  }
+}

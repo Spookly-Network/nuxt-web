@@ -1,0 +1,94 @@
+{
+  "general": {
+    "bingo": "Bingo",
+    "jumpwars": "Jumpwars",
+    "arcade": "Arcade",
+    "realms": "Realms",
+
+    "seo": {
+      "default-title": "Das ultimative Minecraft-Netzwerk",
+      "descriptions": {
+        "bingo": "In Bingo sammeln Teams aus zwei Spielern 9 Gegenstände. Spiele Runden zwischen 20 Minuten und zwei Stunden. Jetzt mitspielen auf Spookly.net!",
+        "jumpwars": "Meistere Parkour und Kampf in Jumpwars! Verdiene Punkte, rüste dich aus und kämpfe. Das letzte verbleibende Team gewinnt. Jetzt auf Spookly.net mitspielen!",
+        "arcade": "Tritt in verschiedenen Minispielen im Arcade-Modus an! Sammle Punkte und werde der beste Spieler. Spaß und Abwechslung warten auf Spookly.net!",
+        "realms": "Erschaffe deine eigene Welt im Realms-Modus! Passe dein einzigartiges Minecraft-Paradies an und modifiziere es. Zeige deine Kreativität auf Spookly.net!"
+      }
+    },
+    "footer": {
+      "title": {
+        "language": "Sprachen",
+        "links": "Nützliche Links",
+        "legal": "Rechtliches"
+      },
+      "legal": {
+        "imprint": "Impressum",
+        "privacy": "Datenschutz"
+      },
+      "links": {
+        "discord": "Discord"
+      }
+    },
+    "navigation": {
+      "general": {
+        "home": "Home",
+        "blog": "Blog",
+        "gamemodes": "Spielmodi",
+        "store": "Store"
+      },
+      "gamemodes": {
+        "bingo": "Bingo",
+        "jumpwars": "Jumpwars",
+        "arcade": "Arcade",
+        "realms": "Realms"
+      }
+    }
+  },
+  "homepage": {
+    "content": {
+      "headlines": {
+        "news": "Neues"
+      },
+      "latest": {
+        "read": "Lesen"
+      },
+      "discord": {
+        "talk": "Rede mit uns!",
+        "cta": "Trete unserem Discord bei"
+      }
+    }
+  },
+  "gamemodes": {
+    "names": {
+      "bingo-classic": "Bingo Classic",
+      "bingo-quick": "Bingo-Quick"
+    },
+    "content": {
+      "header": {
+        "gamemode": "spielmodus",
+        "development": "in entwicklung",
+        "bingo": "In Bingo werden Teams an zufällige Orte teleportiert und müssen 9 bestimmte Gegenstände sammeln. Das erste Team, das alle Gegenstände gesammelt hat, gewinnt, wobei die Runden zwischen 20 Minuten und zwei Stunden dauern können. Teste deine Strategie- und Überlebensfähigkeiten in dieser spannenden Schnitzeljagd.",
+        "jumpwars": "Jumpwars kombiniert Parkour und Kampf, bei dem die Spieler Jump-and-Run-Module abschließen müssen, um Punkte für Ausrüstung zu sammeln. Nach dem Aufrüsten kämpfen die Teams mit jeweils drei Leben, und das letzte verbleibende Team gewinnt. Es ist eine aufregende Mischung aus Geschicklichkeit und Strategie.",
+        "realms": "Im Realms-Modus erhält jeder Spieler seine eigene anpassbare Welt, die er nach Belieben verändern kann. Erschaffe dein einzigartiges Minecraft-Paradies und zeige deine Kreativität. Es ist dein persönlicher Raum im Spookly.net-Universum.",
+        "arcade": "Der Arcade-Modus bietet eine Reihe von verschiedenen Minispielen, bei denen die Spieler um Punkte kämpfen. Der Spieler mit den meisten Punkten am Ende gewinnt, was für ein spannendes und abwechslungsreiches Spielerlebnis sorgt. Genieße mehrere Spiele und strebe nach der höchsten Punktzahl."
+      },
+      "maps": {
+        "title": "Maps",
+        "acent": "Acent",
+        "cherry": "Cherry",
+        "haven": "Haven"
+      },
+      "modes": {
+        "title": "Modi",
+        "bingo-classic": "In Bingo werden Teams aus zwei Spielern an zufällige Orte in der Minecraft-Welt teleportiert und müssen 9 bestimmte Gegenstände sammeln. Das erste Team, das alle Gegenstände gesammelt hat, gewinnt. Die klassische Variante kann bis zu zwei Stunden dauern und bietet eine längere Herausforderung für Strategie- und Überlebensfähigkeiten.",
+        "bingo-quick" : "Bingo Quick ist eine schnelllebige Version des klassischen Bingo-Spiels. Jeder Spieler ist auf sich allein gestellt und muss 9 bestimmte Gegenstände sammeln, wobei die Runden auf nur 20 Minuten verkürzt sind. Dies sorgt für ein kürzeres, intensiveres Erlebnis, das das schnelle Denken und die Effizienz der Spieler testet."
+      }
+    }
+  },
+  "blog": {
+    "preview": {
+      "title": "Hast du Lust nach mehr?",
+      "subtitle": "Schau dir unsere anderen Blogbeiträge an, wenn du das nicht schon getan hast.",
+      "empty": "Zurzeit sind keine Einträge vorhanden"
+    }
+  }
+}
