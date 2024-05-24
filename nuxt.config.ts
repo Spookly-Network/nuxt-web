@@ -27,6 +27,11 @@ export default defineNuxtConfig({
 
     modules: ['@nuxtjs/sitemap', '@nuxt/content', '@nuxtjs/i18n', "@nuxt/image", '@nuxtjs/seo'],
 
+    site: {
+        url: 'https://spookly.net',
+        trailingSlash: true
+    },
+
     image: {
         format: ['webp'],
         screens: {
